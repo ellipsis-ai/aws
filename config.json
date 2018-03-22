@@ -1,0 +1,10 @@
+{
+  "name" : "AWS",
+  "exportId" : "s47lMcsLQyylDcbYvAJGTg",
+  "icon" : "🔦",
+  "requiredAWSConfigs" : [ {
+    "nameInCode" : "default"
+  } ],
+  "requiredOAuth2ApiConfigs" : [ ],
+  "requiredSimpleTokenApis" : [ ]
+}
